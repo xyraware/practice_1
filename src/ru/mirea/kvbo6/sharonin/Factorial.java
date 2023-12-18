@@ -1,5 +1,3 @@
-package ru.mirea.kvbo1.rumyantseva;
-
 import java.math.BigInteger;
 public class Factorial {
     public static BigInteger calculateFactorial(int number) {
