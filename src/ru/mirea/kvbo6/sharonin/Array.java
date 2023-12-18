@@ -1,4 +1,4 @@
-package ru.mirea.kvbo1.rumyantseva;
+package ru.mirea.kvbo6.sharonin;
 
 import java.util.Arrays;
 
